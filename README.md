@@ -5,13 +5,13 @@ Built with Flask (Python) and Hugging Face Transformers (BART model), with a col
 
 **Features**
 
-1.Paste any long text and get an instant summary
+- Paste any long text and get an instant summary
 
-2.Generates very short summaries (1–2 lines)
+- Generates very short summaries (1–2 lines)
 
-3.Clean and colorful frontend for better UX
+- Clean and colorful frontend for better UX
 
-4.Powered by a pretrained NLP model (facebook/bart-large-cnn)
+- Powered by a pretrained NLP model (facebook/bart-large-cnn)
 
 **Tech Stack**
 
