@@ -15,16 +15,16 @@ Built with Flask (Python) and Hugging Face Transformers (BART model), with a col
 
 **Tech Stack**
 
-  Backend: Flask, Transformers (Hugging Face), PyTorch
+-Backend: Flask, Transformers (Hugging Face), PyTorch
+ 
+-Frontend: HTML, CSS
 
-  Frontend: HTML, CSS
-
-  Language: Python 3
+-Language: Python 3
 
 **Future Improvements**
 
-  Add file upload support (PDF/TXT)
+-Add file upload support (PDF/TXT)
+ 
+-Allow user to choose summary length (short / medium / detailed)
 
-  Allow user to choose summary length (short / medium / detailed)
-
-  Deploy on a cloud platform (Heroku, Render, Vercel + Flask API)
+-Deploy on a cloud platform (Heroku, Render, Vercel + Flask API)
